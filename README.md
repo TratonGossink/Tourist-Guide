@@ -16,5 +16,5 @@ In Xcode, go to open file and find the location of the downloaded project folder
 
 ### Clone Project Method:
 Select the green button labeled <> Code on this page, then copy the url. 
-Once URL is copied, in XCode, go to source control and select clone. Paste the copied URL in the search bar and select clone.
+Once URL is copied, in Xcode, go to source control and select clone. Paste the copied URL in the search bar and select clone.
 
